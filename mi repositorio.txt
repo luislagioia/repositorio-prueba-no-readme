@@ -2,3 +2,5 @@ repositorio de prueba
 
 primeros cambios 
 estoy camiado el archivo 
+
+hago nuevos cambios en el archivo para luego realizar un nuevo commit 
