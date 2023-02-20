@@ -4,3 +4,6 @@ primeros cambios
 estoy camiado el archivo 
 
 hago nuevos cambios en el archivo para luego realizar un nuevo commit 
+
+
+sigo codeando por acá y me pinta haces unos nuevos cambios
